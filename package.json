@@ -1,0 +1,25 @@
+{
+    "name": "cloudstack",
+    "version": "0.2.1",
+    "author": "",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vikrantvirdi/cloudstack.git"
+    },
+    "description": "An API wrapper for CloudStack.",
+
+    "keywords": [
+      "cloudstack",
+      "api",
+      "cloud"
+    ],
+    "dependencies": {
+      "crypto": "0.0.3",
+      "request": "2.9.203"
+    },
+    "license": "MIT",
+    "main": "./lib/cloudstack",
+    "engines": {
+      "node": ">= 0.4.0"
+    }
+}
